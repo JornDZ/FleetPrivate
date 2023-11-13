@@ -7,7 +7,7 @@ const Homepage = () => {
   return (
     <>
       <Nav />
-      <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 pl-12 pr-12 mt-28">
+      <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 pl-12 pr-12 mt-20 h-[600px]">
         {homePage.map((h) => {
           return (
             <FleetWeergave

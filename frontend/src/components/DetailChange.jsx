@@ -109,29 +109,35 @@ const DetailChange = () => {
               Object.entries(data).map(([field, value]) => (
                 <div
                   key={field}
-                  className="pb-2 text-s text-[#858585] font-mainFont font-titleFontWeigt py-1"
+                  className="text-s text-[#858585] font-mainFont font-titleFontWeigt pb-3"
                 >
                   <span>{value}</span>
                 </div>
               ))
             )}
           </div>
+        </div>
+        <div className="flex relative w-1/2 h-16 ml-[50%]">
           {showCheckMark && (
-              <div className="flex absolute bottom-[33%] right-[35%]">
-                <p className="text-[#858585] font-btnFontWeigt font-Helvetica p-5">
-                  Succes!
-                </p>
-                <img src={CheckNoBg} alt="Checkmark" className="w-16 h-16" />
-              </div>
-            )}
-            <div className="absolute right-[25%] bottom-[30%] p-8">
+            <div className="flex ml-[25%] xl3:ml-[40%]">
+              <p className="text-[#858585] font-btnFontWeigt font-Helvetica p-3">
+                Succes!
+              </p>
+              <img
+                src={CheckNoBg}
+                alt="Checkmark"
+                className="w-10 h-10 rounded-full bg-whiteText"
+              />
+            </div>
+          )}
+          <div className="pl-3 absolute right-[10%]">
             <Button
               className="w-28 h-[40px] rounded-[10px] font-btnFontWeigt font-Helvetica text-btnFontSize text-[#FFFFFF] bg-blueBtn hover:bg-hoverBtn cursor-pointer"
               onClick={handleToggleEditMode}
             >
               {isEditing ? "Opslaan" : "Bewerk"}
             </Button>
-            </div>
+          </div>
         </div>
       </div>
     </div>

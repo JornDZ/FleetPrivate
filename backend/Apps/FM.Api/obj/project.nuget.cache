@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bIiwgrKB0IzjAaxY+z942sPm5c/XWbiugjs9RdWPN38+3PMLelF4vFeMMvSxrGhZ7t+0TMSar7LeK++iwjZeqw==",
+  "dgSpecHash": "cbyD6DSIrmX2qAH62Env1NZ1bzIRYBLWTpeVVaDqmOFc8nzxc6DO3WeAcsMfS1n2t4rJcncJ6DFUrz938/TEnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jornd\\OneDrive\\Documenten\\Hogent 2\\Projectwerk\\FleetManagementProject\\FleetManagementProject\\backend\\Apps\\FM.Api\\FMApi.App.csproj",
+  "projectFilePath": "C:\\Users\\jornd\\OneDrive\\Documenten\\Hogent 2\\Projectwerk\\Private\\backend\\Apps\\FM.Api\\FMApi.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jornd\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jornd\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

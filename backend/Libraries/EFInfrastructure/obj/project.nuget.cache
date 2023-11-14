@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lIOvIwRS5QEIPg5zMRrhT8HOroWgJHZ1QNIl9SHlj5+j2lvGLi370zGq9yDZeQlBNPms5WU2zx03juKC7kJlWQ==",
+  "dgSpecHash": "WxzXncc4bhGRUosLpnZRM7EZIHVBHRURU5d12rUoSD+Bs3OTY30Batqcila6QRnQHneppuJoSaCx+8krnlpG8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jornd\\OneDrive\\Documenten\\Hogent 2\\Projectwerk\\FleetManagementProject\\FleetManagementProject\\backend\\Libraries\\EFInfrastructure\\EF_Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\jornd\\OneDrive\\Documenten\\Hogent 2\\Projectwerk\\Private\\backend\\Libraries\\EFInfrastructure\\EF_Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jornd\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\jornd\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
